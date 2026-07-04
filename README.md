@@ -4,10 +4,16 @@
 
 <br>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/et0r/et0r/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=et0r&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <img src="https://raw.githubusercontent.com/et0r/et0r/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph" />
+    </td>
+    <td width="50%" valign="top">
+      <img src="https://streak-stats.demolab.com?user=et0r&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="100%" alt="streak graph" />
+    </td>
+  </tr>
+</table>
 
 <br>
 
@@ -51,6 +57,6 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="33" height="21" alt="gmail logo" />
   </a>
   <a href="https://tryhackme.com/p/h4ckb" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="33" height="21" alt="tryhackme logo" />
+    <img src="https://cdn.simpleicons.org/tryhackme/25d366" width="26" height="26" alt="tryhackme logo" />
   </a>
 </div>
