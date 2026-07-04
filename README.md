@@ -49,10 +49,10 @@
   <a href="https://www.linkedin.com/in/ceowt/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="21" alt="linkedin logo"  />
   </a>
-  <a href="wisdom.e.alornyo@gmail.com" target="_blank">
+  <a href="mailto:wisdom.e.alornyo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="33" height="21" alt="gmail logo"  />
   </a>
-  <a href="@h4ckb" target="_blank">
+  <a href="https://tryhackme.com/p/h4ckb" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/tryhackme/default.svg" width="33" height="21" alt="tryhackme logo"  />
   </a>
 </div>
