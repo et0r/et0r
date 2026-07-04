@@ -50,13 +50,13 @@
 <br>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/ceowt/" target="_blank">
+  <a href="https://www.linkedin.com/in/ceowt/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="33" height="21" alt="linkedin logo" />
   </a>
-  <a href="mailto:wisdom.e.alornyo@gmail.com" target="_blank">
+  <a href="mailto:wisdom.e.alornyo@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="33" height="21" alt="gmail logo" />
   </a>
-  <a href="https://tryhackme.com/p/h4ckb" target="_blank">
+  <a href="https://tryhackme.com/p/h4ckb">
     <img src="https://cdn.simpleicons.org/tryhackme/25d366" width="26" height="26" alt="tryhackme logo" />
   </a>
 </div>
