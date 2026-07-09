@@ -57,7 +57,7 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=the%20more%20you%20want%20it%2C%20the%20more%20you%20try&author=et0r&theme=dark&type=horizontal" alt="quote" width="600" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=the%20more%20you%20want%20it%2C%20the%20more%20you%20try&author=et0r&theme=hackerman&border=true&type=horizontal&quoteColor=c9d1d9&authorColor=c9d1d9&symbolColor=4af626" alt="quote" width="500" />
 </div>
 
 <br>
