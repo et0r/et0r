@@ -4,13 +4,13 @@
 </pre>
 </div>
 
-<h3 align="center">Cybersecurity | Pentesting · OSINT · Digital Forensics</h3>
-<p align="center">security + web/design work · LearnOps</p>
+<h3 align="center">Cybersecurity | Pentesting · OSINT · Digital Forensics · AI/ML</h3>
+<p align="center">security · web/design work · DevOps · IDK just learning alot of stuff</p>
 
 <br>
 
 
-### 🚧 Currently working on
+### 🚧 Currently working on/learning 
 
 - 🔍 Pentesting + OSINT engagements for freelance clients
 - 🕵️ Building a mobile forensics tool (Android/iOS artifact extraction, no root)
@@ -59,7 +59,7 @@
 <br>
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?quote=the%20more%20you%20want%20it%2C%20the%20more%20you%20try&author=et0r&theme=hackerman&border=true&type=horizontal&quoteColor=c9d1d9&authorColor=c9d1d9&symbolColor=4af626" alt="quote" width="500" />
+  <img src="https://quotes-github-readme.vercel.app/api?quote=the%20more%20you%20want%20it%2C%20the%20more%20you%20do&author=et0r&theme=hackerman&border=true&type=horizontal&quoteColor=c9d1d9&authorColor=c9d1d9&symbolColor=4af626" alt="quote" width="500" />
 </div>
 
 <br>
