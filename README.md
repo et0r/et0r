@@ -4,19 +4,26 @@
 </pre>
 </div>
 
+<h3 align="center">Cybersecurity | Pentesting · OSINT · Digital Forensics</h3>
+<p align="center">security + web/design work · LearnOps</p>
+
 <br>
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <img src="https://raw.githubusercontent.com/et0r/et0r/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=dracula&hide_border=false&order=2" width="100%" alt="languages graph" />
-    </td>
-    <td width="50%" valign="top">
-      <img src="https://streak-stats.demolab.com?user=et0r&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" width="100%" height="100%" alt="streak graph" />
-    </td>
-  </tr>
-</table>
 
+### 🚧 Currently working on
+
+- 🔍 Pentesting + OSINT engagements for freelance clients
+- 🕵️ Building a mobile forensics tool (Android/iOS artifact extraction, no root)
+- 🤖 A Telegram bot that does gobuster-style directory scanning
+
+<br>
+
+### 🧱 Things I've built
+
+- **[ceowt.dev](https://ceowt.dev)** — my portfolio, dark terminal aesthetic
+- **[SchoolStock](http://ec2-16-16-85-61.eu-north-1.compute.amazonaws.com/index.html)** — cloud-based inventory system for schools, AWS Free Tier (capstone project)
+- **[Group savings tracker](https://github.com/et0r/Group-Savings-Tracker)** — Python desktop app
+- more coming soon
 <br>
 
 <div align="center">
@@ -68,5 +75,13 @@
   &nbsp;
   <a href="https://tryhackme.com/p/h4ckb">
     <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" height="28" alt="tryhackme" />
+  </a>
+  &nbsp;
+  <a href="https://ceowt.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" height="28" alt="portfolio" />
+  </a>
+  &nbsp;
+  <a href="---">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" height="28" alt="youtube" />
   </a>
 </div>
